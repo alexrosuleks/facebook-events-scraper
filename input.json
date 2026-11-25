@@ -1,0 +1,14 @@
+{
+  "searchQueries": [
+    "comedy"
+  ],
+  "maxEvents": 10,
+  "onlineOnly": false,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ],
+    "scrapelyProxyCountry": "US"
+  }
+}

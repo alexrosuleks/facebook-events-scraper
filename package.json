@@ -1,0 +1,20 @@
+{
+  "name": "facebook-events-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Facebook Events Scraper: Scrape public Facebook events by URL or search: name, date, location, host, description, going and interested counts. No login needed. Export to JSON or CSV.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "facebook"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
